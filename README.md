@@ -1,7 +1,7 @@
 
 # marr paper evaluations
 
-This repository contains scripts to reproduce all results, tables, and figures in our paper applying the `marr` procedure.
+This repository contains scripts to reproduce all results, tables, and, figures in our paper applying the `marr` procedure.
 
 `Paper (in preparation)`
 
